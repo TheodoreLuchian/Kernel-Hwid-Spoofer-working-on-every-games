@@ -25,4 +25,4 @@ This HWID Spoofer will spoof the following things for bypass the Easy Anti Cheat
 
 Warning! This spoofer will not work if u do not disable The Real-Time protection and the tamper protection in Windows Defender then disable ur other antivirus if you have a second one.
 
-https://user-images.githubusercontent.com/108214475/175806542-f4313c4b-2545-4c79-b36f-15ea1bddb0e3.png
+
